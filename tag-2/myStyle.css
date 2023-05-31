@@ -1,0 +1,28 @@
+/* Element-Selector */
+p {
+    color: black;
+}
+
+/*
+    Ich bin ein CSS-Kommentar
+*/
+
+/* Universal-Selector */
+
+* {
+    color:yellow;
+}
+
+
+/* Id-Selector */
+#site-top {
+    font-size: 42px;
+    color: gray;
+}
+
+/* Class-Selector */
+
+.cool-paragraph {
+    color: slateblue;
+    font-size: 36px;
+}
